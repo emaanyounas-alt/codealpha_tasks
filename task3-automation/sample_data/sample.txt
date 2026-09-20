@@ -1,0 +1,7 @@
+Hi team,
+
+Please reach out to sarah.khan@example.com for the report, or cc ahmed_dev@company.co if it's urgent.
+For general queries, contact support@codealpha.tech.
+
+Thanks,
+Admin (admin123@sample-domain.org)

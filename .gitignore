@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+task3-automation/sorted_images/
+task3-automation/extracted_emails.txt
+task3-automation/page_title.txt
